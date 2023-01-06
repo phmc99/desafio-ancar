@@ -13,6 +13,8 @@ node_modules
 api/node_modules
 dist-ssr
 *.local
+package-lock.json
+
 
 # OS
 .DS_Store
