@@ -1,0 +1,13 @@
+{
+  "name": "desafio-ancar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/phmc99/desafio-ancar.git",
+  "author": "Pedro Costa <phmc99@outlook.com>",
+  "license": "MIT",
+  "private": "true",
+  "workspaces": [
+    "api",
+    "client"
+  ]
+}
